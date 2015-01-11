@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://enosix.github.io/sitemap.xml 
